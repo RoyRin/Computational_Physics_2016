@@ -1,0 +1,10 @@
+import matplotlib.mlab as mlab
+import random
+
+
+#montecarlo integral for 10th- integral (all evaluated 
+#from 0 to 1 (for Xi) of (X1+x2...X10)^2 dx1 dx2 etc
+
+N = 10000
+for i in xrange(10)
+    print i
